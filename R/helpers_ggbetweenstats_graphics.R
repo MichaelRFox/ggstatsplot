@@ -302,7 +302,7 @@ ggsignif_xy <- function(x, y) {
   y_start <- max(y, na.rm = TRUE) * (1 + 0.025)
 
   # steps in which the y values need to increase
-  step_length <- (max(y, na.rm = TRUE) - min(y, na.rm = TRUE)) / 20
+  step_length <- (max(y, na.rm = TRUE) - min(y, na.rm = TRUE)) / 15
 
   # end position on `y`-axis for the `ggsignif` lines
   y_end <- y_start + (step_length * n_comparions)
