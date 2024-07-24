@@ -1,0 +1,23 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0.9000
+pkgdown_sha: 6f01c9267a1cee263216cec38eea10017d751dd8
+articles:
+  additional: additional.html
+  web_only/faq: web_only/faq.html
+  web_only/ggbarstats: web_only/ggbarstats.html
+  web_only/ggbetweenstats: web_only/ggbetweenstats.html
+  web_only/ggcoefstats: web_only/ggcoefstats.html
+  web_only/ggcorrmat: web_only/ggcorrmat.html
+  web_only/ggdotplotstats: web_only/ggdotplotstats.html
+  web_only/gghistostats: web_only/gghistostats.html
+  web_only/ggpiestats: web_only/ggpiestats.html
+  web_only/ggscatterstats: web_only/ggscatterstats.html
+  ggstatsplot: ggstatsplot.html
+  web_only/ggwithinstats: web_only/ggwithinstats.html
+  web_only/pairwise: web_only/pairwise.html
+  web_only/principles: web_only/principles.html
+  web_only/purrr_examples: web_only/purrr_examples.html
+last_built: 2024-07-24T18:02Z
+urls:
+  reference: https://indrajeetpatil.github.io/ggstatsplot/reference
+  article: https://indrajeetpatil.github.io/ggstatsplot/articles
